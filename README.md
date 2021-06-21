@@ -1,4 +1,4 @@
 # web-wiki-scrapping
 web-wiki-scrapping
 
-https://i.imgur.com/Mkpv5jB.png
+<img src="https://i.imgur.com/Mkpv5jB.png">
